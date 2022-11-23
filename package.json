@@ -1,0 +1,23 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jowc/nodejs-practice.git"
+  },
+  "author": "Joseph Ojiofor Chikeme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jowc/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/jowc/nodejs-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
